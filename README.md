@@ -1,8 +1,8 @@
 # Windows 10 Transformation Pack
 
-Repository hosting the Windows 10 GTK, Icon and Metacity themes. This Work aims to provide the closest imitation of Microsoft's Windows 10 appearance, while making itself available to the most Desktop Environments. For a complete compatibility list, visit the [theme's webpage](http://b00merang.weebly.com/windows-10-transformation-pack.html)
+Repository hosting the Windows 10 GTK, Icon and Metacity themes. This Work aims to provide the closest imitation of Microsoft's Windows 10 appearance, while making itself available to the most Desktop Environments. For a complete compatibility list, visit the [theme's webpage](https://web.archive.org/web/20170327150042/http://b00merang.weebly.com/windows-10-transformation-pack.html)
 
-![Windows-10-TP-by-B00merang](http://b00merang.weebly.com/uploads/1/6/8/1/16813022/screenshot-2016-11-01-10-35-43_orig.png)
+![Windows-10-TP-by-B00merang](https://web.archive.org/web/20170626175907im_/http://b00merang.weebly.com/uploads/1/6/8/1/16813022/1b6554ce-d720-11e5-97d1-4397f21d2773-orig.png)
 
 ### [Dark available theme here](https://github.com/B00merang-Project/Windows-10-Dark) ###
 
